@@ -431,7 +431,7 @@ li.social-links a {
     right: 0;
     width: 100%;
     padding: 20px 40px;
-    background-color: #1f1f1f !important;
+    background-color: #4594ae !important;
     -webkit-transition: visibility 0.95s ease-in-out, opacity 0.95s ease-in-out, bottom 0.95s ease-in-out, top 0.95s ease-in-out, left 0.95s ease-in-out, right 0.95s ease-in-out;
     -moz-transition: visibility 0.95s ease-in-out, opacity 0.95s ease-in-out, bottom 0.95s ease-in-out, top 0.95s ease-in-out, left 0.95s ease-in-out, right 0.95s ease-in-out;
     -o-transition: visibility 0.95s ease-in-out, opacity 0.95s ease-in-out, bottom 0.95s ease-in-out, top 0.95s ease-in-out, left 0.95s ease-in-out, right 0.95s ease-in-out;
@@ -521,7 +521,7 @@ li.social-links a {
 }
 
 .section.color1 {
-    background-color: #448AFF;
+    background-color: #4594ae;
 }
 
 .first-section {
@@ -652,7 +652,7 @@ li.social-links a {
 .portfolio-filter ul li .btn-dark {
     box-shadow: none;
     background-color: transparent;
-    border: 1px solid #e6e7e6 !important;
+    border: 1px solid  #4594ae !important;
     color: #1f1f1f;
     font-weight: 400;
     font-size: 13px;
@@ -1834,7 +1834,7 @@ select.mobile-device {
 .footer {
     padding: 90px 0 80px !important;
     color: #999;
-    background-color: #1f1f1f;
+    background-color:  #4594ae;
 }
 
 .footer .widget-title {
@@ -2097,6 +2097,7 @@ select.mobile-device {
 -------------------------------------------------------------------*/
 
 .navbar-default .btn-light {
+    border: 2px solid #4594ae !important;
     padding: 0 20px;
     margin-left: 15px;
 }
